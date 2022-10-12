@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lootex-io/maintenance-page/static/css/main.1d072af1.css",
+    "main.js": "/lootex-io/maintenance-page/static/js/main.58dee8c7.js",
+    "index.html": "/lootex-io/maintenance-page/index.html",
+    "main.1d072af1.css.map": "/lootex-io/maintenance-page/static/css/main.1d072af1.css.map",
+    "main.58dee8c7.js.map": "/lootex-io/maintenance-page/static/js/main.58dee8c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d072af1.css",
+    "static/js/main.58dee8c7.js"
+  ]
+}
