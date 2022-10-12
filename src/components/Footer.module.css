@@ -1,0 +1,36 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+  padding: 1em 1.5em;
+  background-color: rgba(64, 75, 98);
+  color: #909cb1;
+  margin-top: auto;
+}
+
+.legal {
+  order: 2;
+}
+
+.social {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  padding-inline: 0.5em;
+}
+
+@media (min-width: 768px) {
+  .footer {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .social {
+    gap: 1em;
+    order: 2;
+  }
+}
