@@ -46,7 +46,7 @@ const Footer = () => {
   return (
     <footer className={s.footer}>
       <div className={s.legal}>
-        <small>© 2020 - 2022 Lootex.io</small>
+        <small>© 2020 - 2023 Lootex.io</small>
       </div>
       <nav className={s.social}>
         {items.map((item) => (
